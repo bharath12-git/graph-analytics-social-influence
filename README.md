@@ -179,7 +179,7 @@ Graph Analytics Project
 ## Live Demo
 
 Streamlit Dashboard:
-https://graph-analytics-social-influence-c8ureuaa9krff55vcr6adh.streamlit.app/
+[https://graph-analytics-social-influence-c8ureuaa9krff55vcr6adh.streamlit.app/](https://graph-analytics-social-influence-c8ureuaa9krff55vcr6adh.streamlit.app/)
 
 ## Technologies Used
 
