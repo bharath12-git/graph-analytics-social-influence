@@ -176,6 +176,20 @@ Graph Analytics Project
 │
 └── README.md
 
+## Live Demo
+
+Streamlit Dashboard:
+https://graph-analytics-social-influence-c8ureuaa9krff55vcr6adh.streamlit.app/
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Streamlit
+- GitHub
 
 
 
